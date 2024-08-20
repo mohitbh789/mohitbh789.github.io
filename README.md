@@ -11,4 +11,4 @@
 - one
 - two
 
-[my linkedin](www.linkedin.com/in/mohit-bhoir-534b781b9)
+[my linkedin](https://www.linkedin.com/in/mohit-bhoir-534b781b9)
