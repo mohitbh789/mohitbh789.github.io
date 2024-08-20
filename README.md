@@ -4,8 +4,8 @@
 **test bold**
 *test Italic*
 
-1. first thing
-2. second thing
+1. #first thing
+2. ##second thing
 
 
 - one
@@ -13,7 +13,7 @@
 
 [my linkedin](https://www.linkedin.com/in/mohit-bhoir-534b781b9)
 
-![this is obviously a puppy](IMG_7882.jpeg)
+![- #this is obviously a puppy](IMG_7882.jpeg)
 
 ```python
 
