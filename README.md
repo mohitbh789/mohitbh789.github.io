@@ -15,7 +15,7 @@
 
 ![this is obviously a puppy](IMG_7882.jpeg)
 
-'''python
+```python
 
 def mohit()
   return 0
