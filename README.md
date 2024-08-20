@@ -8,7 +8,7 @@
 2. second thing
 
 
-*one
-*two
+-one
+-two
 
 [my linkedin](www.linkedin.com/in/mohit-bhoir-534b781b9)
